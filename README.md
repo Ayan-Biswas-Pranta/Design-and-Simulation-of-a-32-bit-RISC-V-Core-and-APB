@@ -1,18 +1,24 @@
 # Design and Simulation of a 32-bit RISC V Core and APB
-IOT based EVM project with fingerprint sensor <br>
-Features: <br>
+Microprocessors can be of different architectures: Single-cycle, multi-cycle and pipelined. Multi-cycle architecture defines its input and output datapath and controls. SystemVerilog can be used to design multi-cycle architecture.  <br>
+
+RISC-V is an open standard instruction set architecture based on RISC principles. It is free-for-all, and can be implemented easily by using SystemVerilog. RISC-V has its own way of defining instructions in assembly and machine languages. Codes are compiled in SystemVerilog according to RISC-V standards.  <br>
+
+In this project, instructions have been compiled in RISC-V architecture using SystemVerilog.
+ <br>
+
+<img
+  src="APB.png"
+  title="EVM"
+  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+  
+APB: an industry standard protocol that is used to communicate with peripheral components. <br>
 <ul>
-  <li> IoT based voting reporting and real time monitoring </li> 
-  <li> Battery backup </li>
-  <li> Security features </li> <br>
+  <li> APB bridge is the master </li> 
+  <li> Peripherals are the slave </li> <br>
   </ul>
 <br>
 
-<img
-  src="setup2_git.jpg"
-  alt="Alt text"
-  title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+
   
   <img
   src="pcb.jpg"
