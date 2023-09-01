@@ -9,7 +9,7 @@ In this project, instructions have been compiled in RISC-V architecture using Sy
 <img
   src="APB.png"
   title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 500px; height: 500px">
   
 APB: an industry standard protocol that is used to communicate with peripheral components. <br>
 <ul>
