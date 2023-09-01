@@ -1,4 +1,4 @@
-# EVM_G2_EEE416
+# Design and Simulation of a 32-bit RISC V Core and APB
 IOT based EVM project with fingerprint sensor <br>
 Features: <br>
 <ul>
