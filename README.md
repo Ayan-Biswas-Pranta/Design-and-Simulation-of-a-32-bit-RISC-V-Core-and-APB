@@ -16,7 +16,6 @@ APB: an industry standard protocol that is used to communicate with peripheral c
   <li> APB bridge is the master </li> 
   <li> Peripherals are the slave </li> <br>
   </ul>
-<br>
 
 The data path for complete multicycle is shown below: <br>
 
